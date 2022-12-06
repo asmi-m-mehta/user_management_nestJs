@@ -1,4 +1,4 @@
-#User Registration NestJS demo
+# User Registration NestJS demo
 
 ## Installation
 
